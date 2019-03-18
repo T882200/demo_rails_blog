@@ -96,3 +96,11 @@ Ultimately, the point of this tutorial and video is to help anyone new to the fr
   ```
 
  Continue reading at [Web-Crunch.com](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments)
+
+
+
+## To Run on Cloud9
+```
+$ cd demo_blog_rails/
+$ rails s -b $IP -p $PORT
+```
